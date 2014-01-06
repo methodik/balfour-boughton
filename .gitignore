@@ -1,0 +1,5 @@
+# Ignore compass .sass-cache
+.sass-cache
+
+# Ignore compiled CSS (for now)
+stylesheets/*
